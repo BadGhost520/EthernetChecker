@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">以太网 IP 检查</string>
+    <string name="checkSwitch">检查开关</string>
+    <string name="License">Power by BadGhost</string>
+    <string name="status">已关闭</string>
+    <string name="contentCheck">以太网状态</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接或远程 DHCP 服务器出现问题</string>
+    <string name="noIP">无有效以太网 IP 地址</string>
+    <string name="IP">IP 地址: </string>
+</resources>
